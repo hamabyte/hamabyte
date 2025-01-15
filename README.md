@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on something. No idea.
 - 📫 How to reach me nhamann@proton.me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I use Linux as my daily driver!
 
 <!---
 hamabyte/hamabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
